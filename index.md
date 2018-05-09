@@ -21,3 +21,15 @@ Below you will find links to various "blog post"-style entries, each focusing on
 - [Adidas miCoach Product Line](url)
 - [WHOOP Wearable](url)
 - [Babolat Pure Drive Play](url)
+
+# References
+1. [Apple Health Page](https://www.apple.com/ios/health/)
+2. [Apple Watch Page](https://www.apple.com/watch/)
+3. [Babolat Pure Drive PLAY Page](https://www.babolat.us/product/tennis/generic/pure-drive-play-102229)
+4. [Adidas F50 Adizero XTRX SG Product Page on Pro Direct](http://www.prodirectsoccer.com/products/adidas-football-boots-adidas-f50-adizero-xtrx-sg-synthetic-micoach-soft-ground-soccer-cleats-prime-bluewhiteenergy-41136.aspx)
+5. [Cue Website](https://cue.me/product)
+6. [Mark One Pryme Vessyl Personal Hydration Tracker Product Page on Amazon](https://www.amazon.com/Mark-One-Vessyl-Personal-Hydration/dp/B01HMU687Y)
+7. [Adidas miCoach Smart Ball Helps you Train Better, Ty Sechler, 2014 ](http://sneakhype.com/accessories/2014/05/adidas-micoach-smart-ball-helps-train-better.html)
+8. [Fitbit Website](https://www.fitbit.com/home)
+9. [Theranos Website](https://www.theranos.com/)
+10. [WHOOP Website](http://whoop.com/)
