@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# A Survey of Smart Devices Designed for Self-Improvement
+## A CSC 581 Research Investigation
 
-You can use the [editor on GitHub](https://github.com/micantre/CSC581ResearchInvestigation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In recent years, smart devices have been becoming more and more popular. The rise of the internet of things has caused many engineers to start thinking of new ways to fuse technology with devices we use everyday. As a result, all sorts of smart devices have been designed in order to help people improve various areas of their lives. These areas include diet, physical fitness, sleep, sports skills, etc. For this project, I am going to research the many self-improvement related smart devices that currently exist. For each device, I will be writing a blog post discussing the data it tracks, what knowledge it provides, and its limitations. In addition, I will discuss the ethical implications of each device including the privacy and security of the data that is being collected. By the end, my goal is to have a somewhat comprehensive overview of how modern smart devices help us improve our lives.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below you will find links to various "blog post"-style entries, each focusing on a different device
 
-### Markdown
+## Entires
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/micantre/CSC581ResearchInvestigation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Smartphones and Wearable Devices
+- [Apple Health App](url)
+- [Apple Watch](url)
+- [Fitbit (Smartwatch and companion mobile app)](url)
+# Misc. Health Devices
+- [Pryme Vessyl](url)
+- [Cue](url)
+- [Theranos](url)
+# Sports Devices
+- [Adidas miCoach Product Line](url)
+- [WHOOP Wearable](url)
+- [Babolat Pure Drive Play](url)
