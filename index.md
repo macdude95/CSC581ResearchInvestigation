@@ -8,8 +8,8 @@ Below you will find links to various "blog post"-style entries, each focusing on
 # Entries
 
 ## Smartphones and Wearable Devices
-- [Apple Health App](AppleWatchApp.md)
-- [Apple Watch](url)
+- [Apple Health App](url)
+- [Apple Watch](AppleWatch.md)
 - [Fitbit (Smartwatch and companion mobile app)](url)
 
 ## Misc. Health Devices
