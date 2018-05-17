@@ -6,8 +6,10 @@
 
 ## Data Tracked
 This blog entry is going to be from my own perspective and on my own personal experience using my Apple Watch Series 2. My iPhone already tracks a lot of my data and stores it in the health app (see (my blog post on Apple’s Health app)[AppleHealthApp.md]). There are, however, several pieces of data that I am now capable of tracking as a result of getting a companion Apple Watch to go along with my iPhone, the most prominent one being my heart rate.
+
 ![Image of Apple Watch Heartrate Lights](https://cdn.arstechnica.net/wp-content/uploads/2015/05/DSC00601.jpg)
 [Image Source](https://cdn.arstechnica.net/wp-content/uploads/2015/05/DSC00601.jpg)
+
 Above, you can see a picture of the green lights that turn on when Apple Watch is monitoring your heart rate. Your blood in your wrist absorbs and reflects different amounts of green light depending on your heart rate, which is what allows the Apple Watch to make the measurements it makes. This is only one of the different data points the Apple Watch measures on a daily basis.
 Another piece of data the Apple Watch tracks is your movement. It detents when you are sitting, standing, walking, running, or doing some other form of exercise. All of these data points are combined in special ways that allow for the representation of knowledge in several different ways.
 
