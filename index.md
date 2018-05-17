@@ -13,14 +13,14 @@ Below you will find links to various "blog post"-style entries, each focusing on
 - [Fitbit (Smartwatch and companion mobile app)](Fitbit.md)
 
 ## Misc. Health Devices
-- [Pryme Vessyl](url)
-- [Cue](url)
-- [Theranos](url)
+- [Pryme Vessyl](PrymeVessyl.md)
+- [Cue](Cue.md)
+- [Theranos](Theranos.md)
 
 ## Sports Devices
-- [Adidas miCoach Product Line](url)
-- [WHOOP Wearable](url)
-- [Babolat Pure Drive Play](url)
+- [Adidas miCoach Product Line](miCoach.md)
+- [WHOOP Wearable](WHOOP.md)
+- [Babolat Pure Drive Play](PureDrivePlay.md)
 
 # References
 1. [Apple Health Page](https://www.apple.com/ios/health/)
