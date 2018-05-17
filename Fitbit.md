@@ -8,12 +8,6 @@
 ## Data Tracked
 I also had the pleasure of being able to personally use and test a Fitbit for an extended period of time. The version I had was the Charge (first generation). There was a special version of the Fitbit Charge called “Charge HR”, which also has the hardware necessary to monitor heart rate. My fitbit was mainly used to tracks my number of steps throughout the day. I would say a goal of 10,000 steps and do my best to reach it. Some days I would be about to go to bed and realized that I only needed a few more steps to hit my goal, so I would walk paces around my house in order to reach my goal. During these very intentional uses of my Fitbit, I found that the step tracking was very accurate.
 
-![Image of Calm App](https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ba/01/e3/ba01e337-6bc3-10b7-4e2a-c22ec28d467c/pr_source.png/300x0w.jpg)
-
-[Image Source](https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ba/01/e3/ba01e337-6bc3-10b7-4e2a-c22ec28d467c/pr_source.png/300x0w.jpg)
-
-The Nutrition data can be either manually input or into from an outside app. This data obviously includes what the user has eaten and when. Finally, there is the Sleep data. This data can be automatically input from an app like the Fitbit app if the user has a fitbit, or it can be manually input.
-
 ## Knowledge Provided
 The mobile app or web app (depending on what type of user you are) is where all the magic happens. Below is a picture summarizing the main knowledge that is provided to the user. 
 
