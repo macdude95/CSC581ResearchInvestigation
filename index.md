@@ -15,7 +15,7 @@ Below you will find links to various "blog post"-style entries, each focusing on
 ## Misc. Health Devices
 - [Pryme Vessyl](PrymeVessyl.md)
 - [Cue](Cue.md)
-- [Theranos](Theranos.md)
+- [The Theranos miniLab](Theranos.md)
 
 ## Sports Devices
 - [Adidas miCoach Product Line](miCoach.md)
