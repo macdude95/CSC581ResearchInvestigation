@@ -1,4 +1,4 @@
-# Apple Watch
+# Apple Health App
 
 ![Image of Apple Health App](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iOS/ios11-3-iphone8-health-health-data.jpg)
 
