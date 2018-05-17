@@ -4,6 +4,8 @@
 
 [Image Source](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/iOS/ios11-3-iphone8-health-health-data.jpg)
 
+[Link to Apple Health Video: Everything’s Connected](https://www.youtube.com/watch?v=eww-ZNZZ5Pg)
+
 ## Data Tracked
 The Apple Health app serves as the central hub for all things health data on the iPhone. It stores all of the movement data, dietary data, sleep data, data from third-party apps, and even heart rate data from the Apple Watch ([see my blog post on the Apple Watch](AppleWatch.md)). It categorizes the data it tracks into four categories: Activity, Mindfulness, Nutrition, and Sleep. Activity includes data points like walking/standing/sitting/exercise time. Some of this data can be tracked automatically and all of them can be input manually. The Activity data is very straightforward, and is very similar to the activity data tracked that I detail in my [Apple Watch blogpost](AppleWatch.md). The Mindfulness data is input often by using apps like “Calm,” (Image Below), where the user is prompted to have a minute or two of controlled breathing and meditation.
 
