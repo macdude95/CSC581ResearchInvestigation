@@ -8,7 +8,10 @@
 
 
 ## Knowledge Provided
-https://www.xconomy.com/wordpress/wp-content/images/2015/09/Whoop-1100x733.jpg
+![Image of Device](https://www.xconomy.com/wordpress/wp-content/images/2015/09/Whoop-1100x733.jpg)
+
+[Image Source](https://www.xconomy.com/wordpress/wp-content/images/2015/09/Whoop-1100x733.jpg)
+
 
 ## Limitations
 
