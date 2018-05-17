@@ -10,7 +10,7 @@ TODO
 ## Knowledge Provided
 TODO
 
-[Video of how accurate the knowledge provided by Pure Drive Play is](https://www.youtube.com/watch?v=prIWtaryKJ4)
+[Video about the accuracy of the knowledge provided by Pure Drive Play](https://www.youtube.com/watch?v=prIWtaryKJ4)
 
 ## Limitations
 TODO
