@@ -33,3 +33,4 @@ Below you will find links to various "blog post"-style entries, each focusing on
 8. [Fitbit Website](https://www.fitbit.com/home)
 9. [Theranos Website](https://www.theranos.com/)
 10. [WHOOP Website](http://whoop.com/)
+112. ["Is my Fitbit data secure?", A Fitbit Help Page](https://help.fitbit.com/articles/en_US/Help_article/1758)
