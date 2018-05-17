@@ -5,7 +5,7 @@
 [Image Source](https://store.storeimages.cdn-apple.com/4974/as-images.apple.com/is/image/AppleInc/aos/published/images/4/2/42/alu/42-alu-silver-sport-white-s1-grid?wid=270&hei=275&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1512435128675)
 
 ## Data Tracked
-This blog entry is going to be from my own perspective and on my own personal experience using my Apple Watch Series 2. My iPhone already tracks a lot of my data and stores it in the health app (see (my blog post on Apple’s Health app)[AppleHealthApp.md]). There are, however, several pieces of data that I am now capable of tracking as a result of getting a companion Apple Watch to go along with my iPhone, the most prominent one being my heart rate.
+This blog entry is going to be from my own perspective and on my own personal experience using my Apple Watch Series 2. My iPhone already tracks a lot of my data and stores it in the health app (see [my blog post on Apple’s Health app](AppleHealthApp.md)). There are, however, several pieces of data that I am now capable of tracking as a result of getting a companion Apple Watch to go along with my iPhone, the most prominent one being my heart rate.
 
 ![Image of Apple Watch Heartrate Lights](https://cdn.arstechnica.net/wp-content/uploads/2015/05/DSC00601.jpg)
 [Image Source](https://cdn.arstechnica.net/wp-content/uploads/2015/05/DSC00601.jpg)
