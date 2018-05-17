@@ -8,6 +8,7 @@
 The Apple Health app serves as the central hub for all things health data on the iPhone. It stores all of the movement data, dietary data, sleep data, data from third-party apps, and even heart rate data from the Apple Watch ([see my blog post on the Apple Watch](AppleWatch.md)). It categorizes the data it tracks into four categories: Activity, Mindfulness, Nutrition, and Sleep. Activity includes data points like walking/standing/sitting/exercise time. Some of this data can be tracked automatically and all of them can be input manually. The Activity data is very straightforward, and is very similar to the activity data tracked that I detail in my [Apple Watch blogpost](AppleWatch.md). The Mindfulness data is input often by using apps like “Calm,” (Image Below), where the user is prompted to have a minute or two of controlled breathing and meditation.
 
 ![Image of Calm App](https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ba/01/e3/ba01e337-6bc3-10b7-4e2a-c22ec28d467c/pr_source.png/300x0w.jpg)
+
 [Image Source](https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/ba/01/e3/ba01e337-6bc3-10b7-4e2a-c22ec28d467c/pr_source.png/300x0w.jpg)
 
 The Nutrition data can be either manually input or into from an outside app. This data obviously includes what the user has eaten and when. Finally, there is the Sleep data. This data can be automatically input from an app like the Fitbit app if the user has a fitbit, or it can be manually input.
