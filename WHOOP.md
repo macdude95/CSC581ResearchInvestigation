@@ -1,4 +1,4 @@
-# WHOOP
+# WHOOP Wearable
 
 ![Image of Device](https://vandrico.com/wearables/sites/default/files/styles/large/public/WHOOP.jpg?itok=oQHct7E9)
 
