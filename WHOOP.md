@@ -7,16 +7,22 @@ NOTE: Arguably, this device could have been put in the “Smartphones and Wearab
 [Image Source](https://vandrico.com/wearables/sites/default/files/styles/large/public/WHOOP.jpg?itok=oQHct7E9)
 
 ## Data Tracked
-
+TODO
 
 ## Knowledge Provided
 ![Image of Device](https://www.xconomy.com/wordpress/wp-content/images/2015/09/Whoop-1100x733.jpg)
 
 [Image Source](https://www.xconomy.com/wordpress/wp-content/images/2015/09/Whoop-1100x733.jpg)
 
+TODO
+
+![Image of Device](WHOOPData.png)
+
+[Image Source](https://www.whoop.com/experience/#analytics)
+
 
 ## Limitations
-
+TODO
 
 ## Ethical Concerns
-
+TODO
