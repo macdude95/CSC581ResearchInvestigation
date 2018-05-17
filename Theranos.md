@@ -1,4 +1,4 @@
-# Theranos
+# The Theranos miniLab
 
 ![Image of Device](https://www.theranos.com/content/images/company/technology/minilab@2x.jpg)
 
