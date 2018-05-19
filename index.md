@@ -35,3 +35,4 @@ Below you will find links to various "blog post"-style entries, each focusing on
 10. [WHOOP Website](http://whoop.com/)
 12. ["Is my Fitbit data secure?", A Fitbit Help Page](https://help.fitbit.com/articles/en_US/Help_article/1758)
 13. [Adidas miCoach Page](http://www.adidas.com/fi/micoach/)
+14. [Facts about the Theranos Scandall](https://www.youtube.com/watch?v=VINIbbmI0BU)
