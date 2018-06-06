@@ -4,7 +4,7 @@
 
 [Image Source](https://www.theranos.com/content/images/company/technology/minilab@2x.jpg)
 
-Theranos is a very controversial topic. It is a miniature lab that promised so much early on, but ultimately fell into scandal after scandal as it seems like the promises they made early on weren’t actually true. Because of this, this blog past will not follow the normal structure. Instead, I am going to just talk in free form about the product, what it does, and the story that has emerged about it.
+Theranos, the product as well as the company, is a very controversial topic. It is a miniature lab that promised so much early on, but ultimately fell into scandal after scandal as it seems like the promises they made early on weren’t actually true. Because of this, this blog past will not follow the normal structure. Instead, I am going to just talk in free form about the product, what it does, and the story that has emerged about it.
 
 Theranos is a play on the words “therapy” and “diagnosis”. Their main product (that was promised) is a miniature laboratory (pictured above) that takes blood samples and provides back all sorts of useful information about the person the sample was taken from. However, their secrecy caused many people to be skeptical of their product they were producing. Investors invested over 700 million dollars into Theranos, a company that, at its peak, was worth 9 billion dollars. 
 
