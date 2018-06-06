@@ -16,7 +16,7 @@ Right away on the WHOOP website, it claims that the wearable device “collects 
 
 The categories of knowledge that WHOOP data is sorted into are: sleep, recovery, and exercise. The partner mobile or web app provides various information and knowledge that helps the user optimize their athletic life. 
 
-First, the app provides a circular gauge giving you a measure of how strained your body is. This is more or less a measurement of physical exertion to allow you to know how far you can push your body in order to optimize your exercise.
+First, the app provides a circular gauge giving you a indication of how strained your body is. This is more or less a measurement of physical exertion to allow you to know how far you can push your body in order to optimize your exercise.
 
 The WHOOP also provides knowledge of recovery, indicating a circular gauge and percentage telling the user how close they are to being fully recovered. This gauge is colored differently depending on how close you are to being recovered. If the color is a high percentage and colored green, it means “All systems go. Your body is primed for peak performance.” If the color is yellow and a medium percentage, it means “Proceed with caution. Your body will respond to training but it is not peaking.” Finally, if the color is red, it means “Take it easy. Your body needs more time to recover or you might risk injury.”
 
