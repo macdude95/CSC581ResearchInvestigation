@@ -17,7 +17,7 @@ The cleats are relatively straight forward. There is a small insert that goes in
 The Smart Soccer Ball tracks different data. It is meant to be used in the same way a normal soccer ball is used, but in addition it tracks data about the ball being kicked into a goal. This data includes the flight path of the ball: both the speed and the trajectory.
 
 ## Knowledge Provided
-Both devices connect to a smart phone in order to transmit data. The miCoach mobile app represents all of the data being tracked. First, I’ll address the data from the cleats. The data of the playing being tracked during the workout is not only put into the app, but it is used to create a virtual avatar of the player that they can actually put into a virtual soccer game and play. Their own stats from real life play are used in order to create a character of the same stats in a video game (see the video advertisement I linked to above). I thought this was pretty clever.
+Both devices connect to a smart phone in order to transmit data. The miCoach mobile app represents all of the data being tracked. First, I’ll address the data from the cleats. The data of the playing being tracked during the workout is not only wirelessly transfered into the app, but it is used to create a virtual avatar of the player that they can actually put into a virtual soccer game and play. Their own stats from real life play are used in order to create a character of the same stats in a video game (see the video advertisement I linked to above). I thought this was pretty clever.
 The knowledge represented from the smart soccer ball is focused on shooting a soccer ball. It shows you which foot you kicked with, the path the ball took, and how fast the ball flew through the air.
 
 ## Limitations
